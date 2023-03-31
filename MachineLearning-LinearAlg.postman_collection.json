@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "093273fc-831d-4a93-a75c-d3851226caf7",
+		"name": "MachineLearning-LinearAlg",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25572471"
+	},
+	"item": [
+		{
+			"name": "Predict Insurance Charges",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\"age\":19,\"sex\":0,\"bmi\":24,\"children\":1,\"smoker\":1,\"region\":1},\r\n    {\"age\":20,\"sex\":1,\"bmi\":25,\"children\":2,\"smoker\":0,\"region\":2},\r\n    {\"age\":24,\"sex\":0,\"bmi\":20,\"children\":1,\"smoker\":1,\"region\":3},\r\n    {\"age\":40,\"sex\":1,\"bmi\":42,\"children\":1,\"smoker\":1,\"region\":1}\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/predict",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
