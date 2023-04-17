@@ -8,6 +8,6 @@ Predictions were done based on user input using REST APIs (http://localhost:5000
 
 Sample prediction for user input - 4.
 
-Insurance Cost Prediction for a Male 40 year old, Smoker with BMI - 42 is $36709.43
+Insurance Cost Prediction for a 40 year old male, Smoker having BMI 42 is $36709.43
 ![image](https://user-images.githubusercontent.com/113606859/232616255-d94c6654-395d-4ef2-b5b9-a910631ff263.png)
 
