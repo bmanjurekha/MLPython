@@ -2,13 +2,13 @@
 # Machine Learning with Python using Linear Regression Algorithm
 
 
-Data set which I have choosen contains # Age, #Sex, #BMI, #Smoker/Non-Smoker and #Insurance Charges.
+Data set which I have choosen contains Age, Sex, BMI, Smoker/Non-Smoker and Insurance Charges.
 Here the task is to predict insurance charges based on Age, BMI, Smoker/Non-Smoker.
-#Reason to Choose Linear Regression Alg : 
+# Reason to Choose Linear Regression Alg : 
 There is a strong corelation between variables in the dataset, Linear Regression Alg will predict the value of 
 dependent variable based on value of independent variables.
 This dataset has a strong corelation between dependent variable - insurances charges and independent variables - Age, Sex, BMI, Smoker/Non-Smoker
-#Using Linear Regression Alg
+# Using Linear Regression Alg
 I want to predict Insurance Charges which is a dependent variable is based on value of independent variable that is Age, BMI
 Smoker/Non-Smoker
 
