@@ -1,7 +1,4 @@
-# MLPython
 # Machine Learning with Python using Linear Regression Algorithm
-
-
 Data set which I have choosen contains Age, Sex, BMI, Smoker/Non-Smoker and Insurance Charges.
 Here the task is to predict insurance charges based on Age, BMI, Smoker/Non-Smoker.
 # Reason to Choose Linear Regression Alg : 
