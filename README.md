@@ -1,7 +1,16 @@
 # MLPython
 # Machine Learning with Python using Linear Regression Algorithm
 
-In this I used Medical Insurance Dataset to check insurance charges based on Target varibles (insurance charges) to Features like sex, BMI, smoker/non-smokers and region.
+
+Data set which I have choosen contains Age, Sex, BMI, Smoker/Non-Smoker and Insurance Charges.
+Here the task is to predict insurance charges based on Age, BMI, Smoker/Non-Smoker.
+#Reason to Choose Linear Regression Alg : 
+There is a strong corelation between variables in the dataset, Linear Regression Alg will predict the value of 
+dependent variable based on value of independent variables.
+This dataset has a strong corelation between dependent variable - insurances charges and independent variables - Age, Sex, BMI, Smoker/Non-Smoker
+#Using Linear Regression Alg
+I want to predict Insurance Charges which is a dependent variable is based on value of independent variable that is Age, BMI
+Smoker/Non-Smoker
 
 Predictions were done based on user input using REST APIs (http://localhost:5000/predict).
 
